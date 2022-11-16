@@ -1,2 +1,2 @@
-# lab_5_KNP_algorithm
+# lab_5_KP_algorithm
 Knuth-Morris-Pratt Algorithm lab 5
